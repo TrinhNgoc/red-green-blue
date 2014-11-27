@@ -1,0 +1,21 @@
+{
+  "name": "red-green-blue",
+  "version": "0.0.0",
+  "description": "red-green-blue ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TrinhNgoc/red-green-blue.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/TrinhNgoc/red-green-blue/issues"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.10"
+  }
+}

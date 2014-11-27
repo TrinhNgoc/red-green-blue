@@ -1,0 +1,19 @@
+{
+  "name": "red-green-blue",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TrinhNgoc/red-green-blue",
+  "authors": [
+    "Jenny <jennyngu@hawaii.edu>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.4.7"
+  }
+}
